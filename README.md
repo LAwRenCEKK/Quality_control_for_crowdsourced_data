@@ -1,0 +1,2 @@
+# Quality_control_for_crowdsourced_data
+Due to the proliferation of mobile devices, crowdsourcing has proved as a more inefficient approach for large-scale data collection/labeling. However, it is facing the data quality control challenges, since the variety of participants skill levels and the  heterogeneity of mobile devices. This project focus on quality control for data collection from a crowdsourcing data collection campaign. The crowdsourced data instances are evaluated against the benchmark data instances using multiple similarity algorithms coded in Python. 
